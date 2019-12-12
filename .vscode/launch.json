@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\bin-debug\\Factory\\FactoryPatternDemo.js",
+            "program": "${workspaceFolder}\\bin-debug\\MVC\\MVCPatternDemo.js",
             "outFiles": [
                 "${workspaceFolder}/**/*.js"
             ]
